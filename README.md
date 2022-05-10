@@ -1,0 +1,1 @@
+contains pelican config and markdown content for netops2devops.net
